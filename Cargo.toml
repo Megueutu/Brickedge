@@ -1,0 +1,7 @@
+[package]
+name = "brickade"
+version = "0.1.0"
+edition = "2021"
+description = "An egress firewall written in Rust, built as a study project"
+
+[dependencies]
